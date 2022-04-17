@@ -3,6 +3,6 @@
     public class Logout
     {
         public string UserName { get; set; }
-        // ilgili degisikliklr yapildi..
+        // ilgili degisikliklr yapildi...
     }
 }
