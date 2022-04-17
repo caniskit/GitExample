@@ -2,8 +2,9 @@
 {
     public class BookDto
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public decimal Price { get; set; }
+        public int Id2 { get; set; }
+        public string Name2 { get; set; }
+        public decimal Price2 { get; set; }
+        public string Name2 { get; set; }
     }
 }
